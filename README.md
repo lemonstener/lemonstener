@@ -9,7 +9,9 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
 #### Skills
 
 **Front End:** HTML, CSS, JavaScript, React.js, Bootstrap, jQuery, responsive design
+
 **Back End:** SQL, Python, Flask, SQLAlchemy, Node.js, Express.js
+
 **Other:** RESTful API's, testing, OOP
 
 #### Highlighted projects
@@ -19,7 +21,9 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
 Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
 **The Forge** - a deck building app for the digital card game Hearthstone. [Repo](https://github.com/lemonstener/hearthstone-forge) [Live](https://hearthstone-forge.herokuapp.com/)
+
 **Frog Feast** - a browser based game I built in 7 days for a hackathon. [Repo](https://github.com/lemonstener/frog-feast) [Live](https://lemonstener.github.io/frog-feast/)
+
 **Jobly** - a mock job searching app. [Repo](https://github.com/lemonstener/jobly-front-end) [Live](https://chunky-tent.surge.sh/)
 
 #### Other projects
@@ -27,10 +31,15 @@ Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
 *Smaller projects based on different concepts I have practiced early on in my journey. I plan to refactor some of these one day.*
 
 **Connect Four** - a simple Connect Four game. [REPO](https://github.com/lemonstener/connect-four) [LIVE](https://lemonstener.github.io/connect-four/)
+
 **Memory Game** - a Schitt's Creek themed memory game. [REPO](https://github.com/lemonstener/memory-game) [LIVE](https://lemonstener.github.io/memory-game/)
+
 **Jeopardy** - a playable version of Jeopardy using the [Jeopardy API](https://jservice.io/). [REPO](https://github.com/lemonstener/jeopardy) [REPO](https://lemonstener.github.io/jeopardy/)
+
 **Meme Generator** - just a simple front end app for making memes. [REPO](https://github.com/lemonstener/meme-generator) [LIVE](https://lemonstener.github.io/meme-generator/)
+
 **Bootstrap-2020** - something quick I whipped up when playing around with Bootstrap. [REPO](https://github.com/lemonstener/2020-bootstrap) [LIVE](https://lemonstener.github.io/2020-bootstrap/)
+
 **Hack or Snooze** - a project based on understanding RESTful API methods. [Repo](https://github.com/lemonstener/hack-or-snooze) [LIVE](https://lemonstener.github.io/hack-or-snooze/)
 
 #### Fun Fact
