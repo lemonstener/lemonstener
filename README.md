@@ -40,7 +40,7 @@ Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
 **Bootstrap-2020** - something quick I whipped up when playing around with Bootstrap. [REPO](https://github.com/lemonstener/2020-bootstrap) [LIVE](https://lemonstener.github.io/2020-bootstrap/)
 
-**Hack or Snooze** - a project based on understanding RESTful API methods. [Repo](https://github.com/lemonstener/hack-or-snooze) [LIVE](https://lemonstener.github.io/hack-or-snooze/)
+**Hack or Snooze** - a project based on understanding RESTful API methods. [REPO](https://github.com/lemonstener/hack-or-snooze) [LIVE](https://lemonstener.github.io/hack-or-snooze/)
 
 #### Fun Fact
 
