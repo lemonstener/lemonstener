@@ -45,5 +45,5 @@ deyanvasilev7@gmail.com
 
 [Check me out on LinkedIn](https://www.linkedin.com/in/deyan-vasilev/)
 
-[![Deyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonstener)](https://github.com/anuraghazra/github-readme-stats)
+[![Deyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemonstener)](https://github.com/lemonstener/github-readme-stats)
 
