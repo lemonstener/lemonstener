@@ -1,12 +1,12 @@
-### Deyan Vasilev
+# Deyan Vasilev
 
-#### About me
+### About me
 
 I am a Software Engineer who enjoys all aspects of Web Development. Whether it's scribbling some notes about a project or coding it there is always something I am working on. Currently enrolled in a coding bootcamp with Springboard. 
 
 Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
 
-#### Skills
+### Skills
 
 **Front End:** HTML, CSS, JavaScript, React.js, Bootstrap, jQuery, responsive design
 
@@ -14,7 +14,7 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
 
 **Other:** RESTful API's, testing, OOP
 
-#### Highlighted projects
+### Highlighted projects
 
 *The ones I'm most proud of.*
 
@@ -26,7 +26,7 @@ Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
 **Jobly** - a mock job searching app. [Repo](https://github.com/lemonstener/jobly-front-end) [Live](https://chunky-tent.surge.sh/)
 
-#### Other projects
+### Other projects
 
 *Smaller projects based on different concepts I have practiced early on in my journey. I plan to refactor some of these one day.*
 
@@ -42,11 +42,11 @@ Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
 **Hack or Snooze** - a project based on understanding RESTful API methods. [REPO](https://github.com/lemonstener/hack-or-snooze) [LIVE](https://lemonstener.github.io/hack-or-snooze/)
 
-#### Fun Fact
+### Fun Fact
 
 I think "Temple of Doom" is the worst Indiana Jones movie.
 
-#### Contact
+### Contact
 
 Feel free to get in touch with me!
 
