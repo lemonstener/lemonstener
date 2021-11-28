@@ -20,11 +20,11 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
 
 Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
-**The Forge** - a deck building app for the digital card game Hearthstone. [Repo](https://github.com/lemonstener/hearthstone-forge) [Live](https://hearthstone-forge.herokuapp.com/)
+**The Forge** - a deck building app for the digital card game Hearthstone. [REPO](https://github.com/lemonstener/hearthstone-forge) [LIVE](https://hearthstone-forge.herokuapp.com/)
 
-**Frog Feast** - a browser based game I built in 7 days for a hackathon. [Repo](https://github.com/lemonstener/frog-feast) [Live](https://lemonstener.github.io/frog-feast/)
+**Frog Feast** - a browser based game I built in 7 days for a hackathon. [REPO](https://github.com/lemonstener/frog-feast) [LIVE](https://lemonstener.github.io/frog-feast/)
 
-**Jobly** - a mock job searching app. [Repo](https://github.com/lemonstener/jobly-front-end) [Live](https://chunky-tent.surge.sh/)
+**Jobly** - a mock job searching app. [REPO](https://github.com/lemonstener/jobly-front-end) [LIVE](https://chunky-tent.surge.sh/)
 
 ### Other projects
 
