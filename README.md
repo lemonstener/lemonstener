@@ -20,15 +20,13 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
 
 Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
-**Mixer** - built the front end for a full stack mixology application with React.js using the data from MixerDB. [REPO](https://github.com/lemonstener/mixer-frontend)[LIVE](https://mixerdb.netlify.app/)
+**Mixer** - built a full stack cocktail mixology application. [BACK REPO](https://github.com/lemonstener/mixerdb) [FRONT REPO](https://github.com/lemonstener/mixer-frontend) [LIVE](https://mixerdb.netlify.app/)
 
-**MixerDB** - built a cocktail database and API. [REPO](https://github.com/lemonstener/mixerdb)
+**The Forge** - a full stack deck building app for the digital card game Hearthstone. [REPO](https://github.com/lemonstener/hearthstone-forge) [LIVE](https://hearthstone-forge.herokuapp.com/)
 
-**The Forge** - a deck building app for the digital card game Hearthstone. [REPO](https://github.com/lemonstener/hearthstone-forge) [LIVE](https://hearthstone-forge.herokuapp.com/)
+**Frog Feast** - a browser based game I built in 7 days for a hackathon. Winner of the Mintbean Star. [REPO](https://github.com/lemonstener/frog-feast) [LIVE](https://lemonstener.github.io/frog-feast/)
 
-**Frog Feast** - a browser based game I built in 7 days for a hackathon. [REPO](https://github.com/lemonstener/frog-feast) [LIVE](https://lemonstener.github.io/frog-feast/)
-
-**Jobly** - a mock job searching app. [REPO](https://github.com/lemonstener/jobly-front-end) [LIVE](https://chunky-tent.surge.sh/)
+**Jobly** - a full stack mock job searching app. [REPO](https://github.com/lemonstener/jobly-front-end) [LIVE](https://chunky-tent.surge.sh/)
 
 ### Other projects
 
