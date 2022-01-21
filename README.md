@@ -18,7 +18,7 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
 
 *The ones I'm most proud of.*
 
-Check out my portfolio [HERE](https://lemonstener.github.io/deyan-portfolio/)
+**Check out my portfolio** [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
 **Mixer** - built a full stack cocktail mixology application. [BACK REPO](https://github.com/lemonstener/mixerdb) [FRONT REPO](https://github.com/lemonstener/mixer-frontend) [LIVE](https://mixerdb.netlify.app/)
 
