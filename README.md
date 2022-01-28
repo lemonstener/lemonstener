@@ -4,7 +4,7 @@
 
 I am a Software Engineer who enjoys all aspects of Web Development. Whether it's scribbling some notes about a project or coding it there is always something I am working on. Currently enrolled in a coding bootcamp with Springboard. 
 
-Gamer. Pro-wrestling fan. Proud dad of a mischievous 2 year old boy.
+Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy.
 
 ### Skills
 
