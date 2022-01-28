@@ -12,7 +12,7 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy.
 
 **Back End:** SQL, Python, Flask, SQLAlchemy, Node.js, Express.js
 
-**Other:** RESTful API's, testing, OOP
+**Other:** RESTful APIs, testing, OOP
 
 ### Highlighted projects
 
