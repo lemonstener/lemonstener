@@ -36,7 +36,7 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy.
 
 **Memory Game** - a Schitt's Creek themed memory game. [REPO](https://github.com/lemonstener/memory-game) [LIVE](https://lemonstener.github.io/memory-game/)
 
-**Jeopardy** - a playable version of Jeopardy using the [Jeopardy API](https://jservice.io/). [REPO](https://github.com/lemonstener/jeopardy) [REPO](https://lemonstener.github.io/jeopardy/)
+**Jeopardy** - a playable version of Jeopardy using the [Jeopardy API](https://jservice.io/). [REPO](https://github.com/lemonstener/jeopardy) [LIVE](https://lemonstener.github.io/jeopardy/)
 
 **Meme Generator** - just a simple front end app for making memes. [REPO](https://github.com/lemonstener/meme-generator) [LIVE](https://lemonstener.github.io/meme-generator/)
 
