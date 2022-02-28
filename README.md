@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Software Engineer who enjoys all aspects of Web Development. Whether it's scribbling some notes about a project or coding it there is always something I am working on. I recently graduated from my coding bootcamp and I am currently working on a number of websites as a freelancer. 
+I am a Software Engineer who enjoys all aspects of Web Development. Whether it's scribbling some notes about a project or coding it there is always something I am working on. I recently graduated from a coding bootcamp and I am currently working on a number of websites as a freelancer. 
 
 Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy. I recently spent $40 on a Nerf gun because I am also a dork.
 
