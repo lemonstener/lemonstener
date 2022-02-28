@@ -8,12 +8,12 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy. I recently 
 
 ### Skills
 
-**Programming Languages:** Javascript, Python, SQL
-**Front End:** HTML, CSS, React.js, Bootstrap, jQuery, Webflow, responsive design
-**Back End:** Node, Express, Flask, SQLAlchemy
-**Databases:** PostgreSQL, MySQL
-**Version Control:** Git, GitHub
-**Tools/Platforms:** GitHub, Heroku, Netflify, Surge, Webflow
+**Programming Languages:** Javascript, Python, SQL. 
+**Front End:** HTML, CSS, React.js, Bootstrap, jQuery, Webflow, responsive design. 
+**Back End:** Node, Express, Flask, SQLAlchemy. 
+**Databases:** PostgreSQL, MySQL. 
+**Version Control:** Git, GitHub. 
+**Tools/Platforms:** GitHub, Heroku, Netflify, Surge, Webflow. 
 **Other:** OOP, UI/UX, Unit test, RESTful APIs
 
 
