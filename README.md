@@ -8,7 +8,7 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy. I recently 
 
 ### Skills
 
-####Programming Languages: Javascript, Python, SQL
+#### Programming Languages: Javascript, Python, SQL
 
 **Front End:** HTML, CSS, React.js, Bootstrap, jQuery, Webflow, responsive design
 
