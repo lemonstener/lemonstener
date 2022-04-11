@@ -4,7 +4,7 @@
 
 I am a Software Engineer who enjoys all aspects of Web Development. Whether it's scribbling some notes about a project or coding it there is always something I am working on. I recently graduated from a coding bootcamp and I am currently working on a number of websites as a freelancer. 
 
-Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy. I recently spent $40 on a Nerf gun because I am also a dork.
+In my (very limited) free time I enjoy playing video games,  pro-wrestling, and chasing after my crazy 3 year old son.
 
 ## Skills
 
@@ -14,7 +14,7 @@ Gamer. Pro-wrestling fan. Proud dad of a mischievous 3 year old boy. I recently 
 
 **Version Control**: Git 
 
-**Tools and Platforms**: GitHub, Heroku, Surge, Netflify, Webflow
+**Tools and Platforms**: GitHub, Heroku, Surge, Netlify, Webflow
 
 **Frameworks/Libraries**: Node.js, Express.js, React.js, Flask, SQLAlchemy, Bootstrap, jQuery
 
