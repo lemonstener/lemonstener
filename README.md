@@ -26,13 +26,13 @@ In my (very limited) free time I enjoy playing video games,  pro-wrestling, and 
 
 **Check out my portfolio** [HERE](https://lemonstener.github.io/deyan-portfolio/)
 
-**Mixer** - built a full stack cocktail mixology application. [BACK REPO](https://github.com/lemonstener/mixerdb) [FRONT REPO](https://github.com/lemonstener/mixer-frontend) [LIVE](https://mixerdb.netlify.app/)
+**Mixer** - built a Full-stack cocktail mixology application. [BACK REPO](https://github.com/lemonstener/mixerdb) [FRONT REPO](https://github.com/lemonstener/mixer-frontend) [LIVE](https://mixerdb.netlify.app/)
 
-**The Forge** - a full stack deck building app for the digital card game Hearthstone. [REPO](https://github.com/lemonstener/hearthstone-forge) [LIVE](https://hearthstone-forge.herokuapp.com/)
+**The Forge** - a Full-stack deck building application for the digital card game Hearthstone. [REPO](https://github.com/lemonstener/hearthstone-forge) [LIVE](https://hearthstone-forge.herokuapp.com/)
 
-**Frog Feast** - a browser based game I built in 7 days for a hackathon. Winner of the Mintbean Star. [REPO](https://github.com/lemonstener/frog-feast) [LIVE](https://lemonstener.github.io/frog-feast/)
+**Frog Feast** - a browser-based game I built in 7 days for a hackathon. Winner of the Mintbean Star. [REPO](https://github.com/lemonstener/frog-feast) [LIVE](https://lemonstener.github.io/frog-feast/)
 
-**Jobly** - a full stack mock job searching app. [REPO](https://github.com/lemonstener/jobly-front-end) [LIVE](https://chunky-tent.surge.sh/)
+**Jobly** - a Full-stack mock job searching app. [REPO](https://github.com/lemonstener/jobly-front-end) [LIVE](https://chunky-tent.surge.sh/)
 
 ### Other projects
 
@@ -44,7 +44,7 @@ In my (very limited) free time I enjoy playing video games,  pro-wrestling, and 
 
 **Jeopardy** - a playable version of Jeopardy using the [Jeopardy API](https://jservice.io/). [REPO](https://github.com/lemonstener/jeopardy) [LIVE](https://lemonstener.github.io/jeopardy/)
 
-**Meme Generator** - just a simple front end app for making memes. [REPO](https://github.com/lemonstener/meme-generator) [LIVE](https://lemonstener.github.io/meme-generator/)
+**Meme Generator** - just a simple Front-end application for making memes. [REPO](https://github.com/lemonstener/meme-generator) [LIVE](https://lemonstener.github.io/meme-generator/)
 
 **Bootstrap-2020** - something quick I whipped up when playing around with Bootstrap. [REPO](https://github.com/lemonstener/2020-bootstrap) [LIVE](https://lemonstener.github.io/2020-bootstrap/)
 
