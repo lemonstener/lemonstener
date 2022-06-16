@@ -24,6 +24,8 @@ Full stack Software Engineer based in the St. Louis Metropolitan area.
 
 **Frog Feast** - a browser-based game I built in 7 days for a hackathon. Winner of the Mintbean Star. [REPO](https://github.com/lemonstener/frog-feast) [LIVE](https://lemonstener.github.io/frog-feast/)
 
+**Steve** - a portfolio website template built with HTML and CSS. [REPO](https://github.com/lemonstener/steve) [LIVE](https://lemonstener.github.io/steve/)
+
 **Jobly** - a Full-stack mock job searching app. [REPO](https://github.com/lemonstener/jobly-front-end) [LIVE](https://chunky-tent.surge.sh/)
 
 ### Other projects
