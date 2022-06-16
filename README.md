@@ -5,8 +5,11 @@
 Full stack Software Engineer based in the St. Louis Metropolitan area.
 
 **Languages**: JavaScript, HTML, CSS, SQL, Python, Java
+
 **Frameworks**: React.js, Node.js, Express.js, Flask, SQLAlchemy, Bootstrap, jQuery 
+
 **Tools**: Git, GitHub, PostgreSQL, MySQL, Webflow
+
 **Other**: OOP, MVC, RESTful APIs, Unit Testing
 
 ## Highlighted projects
