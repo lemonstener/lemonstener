@@ -2,23 +2,12 @@
 
 ## About me
 
-I am a Software Engineer who enjoys all aspects of Web Development. Whether it's scribbling some notes about a project or coding it there is always something I am working on. I recently graduated from a coding bootcamp and I am currently working on a number of websites as a freelancer. 
+Full stack Software Engineer based in the St. Louis Metropolitan area.
 
-In my (very limited) free time I enjoy playing video games,  pro-wrestling, and chasing after my crazy 3 year old son.
-
-## Skills
-
-**Programming**: JavaScript, SQL, Python, HTML 
-
-**Databases**: PostgreSQL, MySQL 
-
-**Version Control**: Git 
-
-**Tools and Platforms**: GitHub, Heroku, Surge, Netlify, Webflow
-
-**Frameworks/Libraries**: Node.js, Express.js, React.js, Flask, SQLAlchemy, Bootstrap, jQuery
-
-**Other**: OOP, UI/UX, Unit test, RESTful APIs
+**Languages**: JavaScript, HTML, CSS, SQL, Python, Java
+**Frameworks**: React.js, Node.js, Express.js, Flask, SQLAlchemy, Bootstrap, jQuery 
+**Tools**: Git, GitHub, PostgreSQL, MySQL, Webflow
+**Other**: OOP, MVC, RESTful APIs, Unit Testing
 
 ## Highlighted projects
 
