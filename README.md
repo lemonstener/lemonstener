@@ -4,7 +4,7 @@
 
 I am a T-shaped, Front End Software Engineer located in the St. Louis Metropolitan area.
 
-I specialize in the development of SPA applications with JavaScript and React.
+I specialize in the development of SPA applications with JavaScript and React. I am also a very capable Back-end developer.
 
 ### Fun Fact
 
