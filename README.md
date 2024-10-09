@@ -16,5 +16,5 @@ For professional inquiries:
 
 deyanvasilev7@gmail.com
 
-[Check me out on LinkedIn](https://www.linkedin.com/in/deyan-vasilev/)
+[LinkedIn](https://www.linkedin.com/in/deyan-vasilev/)
 
